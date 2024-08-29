@@ -5,4 +5,4 @@ This method skips the ugliness of dealing with Anaconda for a barebones approach
 
 ## Why Use This Method?
 - Anaconda can often hang up trying to resolve packages.  It can take hours or more and can fail even after all that.
-- It allows you to create, update, and delete environments and Python versions as needed.
+- It allows you to rapidly create, update, and delete environments and Python versions.
