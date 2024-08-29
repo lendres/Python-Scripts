@@ -1,11 +1,11 @@
 @echo off
 
-rem List all the environments.
+rem Lists all the environments.
 
 IF "%1"=="-h" (
-    echo List all the environments.
+    echo Lists all the environments.
     echo.
-    echo LISTENV
+    echo LISTENVS
     GOTO :EOF
 )
 
