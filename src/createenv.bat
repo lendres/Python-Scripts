@@ -1,6 +1,6 @@
 @echo off
 
-rem create a new environment
+rem Create a new environment.
 rem arg1 : name of the environment
 rem arg2 : Python version (e.g. 11, 12).
 

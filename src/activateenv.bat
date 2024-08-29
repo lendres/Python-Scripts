@@ -1,6 +1,6 @@
 @echo off
 
-rem activate an environment
+rem Activate an environment.
 rem arg1 : name of the environment
 
 set python_directory=%~dp0\..\..

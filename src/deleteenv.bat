@@ -1,6 +1,6 @@
 @echo off
 
-rem delete an environment
+rem Delete an environment.
 rem arg1 : name of the environment
 
 set python_directory=%~dp0\..\..
