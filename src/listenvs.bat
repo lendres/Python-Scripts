@@ -12,6 +12,8 @@ IF "%1"=="-h" (
 set python_directory=%~dp0\..\..
 set env_directory=%python_directory%\envs\%1
 
-call dir "%env_directory%"
+echo.
+call dir /b "%env_directory%"
+echo.
 
 :EOF
