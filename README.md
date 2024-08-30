@@ -1,5 +1,5 @@
 # Introduction
-Based on Allan Gurwicz's (@agurwicz) method of installing Python and his orignal Python scripts.
+This is the Allan Gurwicz's (@agurwicz) method of installing Python.
 
 This method skips the ugliness of dealing with Anaconda for a barebones approach.  If you already have worked with environments, this method is likely as easy, or easier, than dealing with Anaconda.
 
