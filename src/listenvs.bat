@@ -2,6 +2,7 @@
 
 rem Lists all the environments.
 
+rem Help.
 IF "%1"=="-h" (
     echo Lists all the environments.
     echo.

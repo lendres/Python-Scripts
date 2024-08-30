@@ -4,6 +4,7 @@ rem Create a new environment.
 rem arg1 : name of the environment
 rem arg2 : Python version (e.g. 311, 312).
 
+rem Help.
 IF "%1"=="-h" (
     echo Creates a new Python environment.
     echo.

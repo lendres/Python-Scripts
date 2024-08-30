@@ -3,6 +3,7 @@
 rem Activate an environment.
 rem arg1 : name of the environment
 
+rem Help.
 IF "%1"=="-h" (
     echo Activates a Python environment.
     echo.

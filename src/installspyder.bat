@@ -3,6 +3,7 @@
 rem Install the Spyder components for an environment.
 rem arg1 : name of the environment
 
+rem Help.
 IF "%1"=="-h" (
     echo Installs the Sypder components into an environment.
     echo Install Spyder from the standalone download.

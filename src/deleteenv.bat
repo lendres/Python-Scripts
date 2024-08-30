@@ -3,6 +3,7 @@
 rem Delete an environment.
 rem arg1 : name of the environment
 
+rem Help.
 IF "%1"=="-h" (
     echo Deletes a Python environment.
     echo.
