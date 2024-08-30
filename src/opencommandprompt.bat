@@ -1,3 +1,5 @@
+@echo off
+
 rem Opens a command prompt with the current directory set the the location of this file.  Intended to be double clicked from file explorer.
 
 rem Help.
@@ -12,3 +14,4 @@ pushd %~dp0
 cmd.exe
 
 :EOF
+@echo on
