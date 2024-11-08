@@ -22,7 +22,7 @@ set new_env_directory=%envs_directory%\%1
 set python_exe_path=%python_directory%\Python%2\python.exe
 
 mkdir "%new_env_directory%"
-call %python_exe_path% -m venv "%new_env_directory%"
-call %new_env_directory%\Scripts\python.exe -m pip install --upgrade %packages_to_install%
+call "%python_exe_path%" -m venv "%new_env_directory%"
+call "%new_env_directory%\Scripts\python.exe" -m pip install --upgrade %packages_to_install%
 
 :EOF
